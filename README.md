@@ -5,7 +5,7 @@ and have embarked on an exciting journey to master the art of crafting beautiful
 
 ## 🌱 What I'm Learning
 
-- Building responsive and visually appealing user interfaces using HTML, CSS, and JavaScript.
+- Building responsive and visually appealing user interfaces using HTML, CSS, JavaScript, React.
 - Exploring modern frontend frameworks like React to create dynamic and interactive web applications.
 
 ## 💡 My Goals
